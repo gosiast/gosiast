@@ -6,7 +6,6 @@
 🗣 Languages: Polish, English, Italian, and Spanish<br>
 🤝 Soft skills: Collaborative and adaptable quick learner, who is always up for a challenge<br>
 🔍 Open to remote or hybrid setups. Recently relocated to Barcelona 🇪🇸 <br>
-📫 How to reach me: [My Portfolio](https://malgorzata-stano.netlify.app/) <br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
