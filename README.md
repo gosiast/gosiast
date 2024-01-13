@@ -1,6 +1,6 @@
 # 💫 Hi there, it's Gosia!
-👩‍💻 Frontend Developer
-🌱 Lifelong learner
+👩‍💻 Frontend Developer <br>
+🌱 Lifelong learner <br>
 🌍 Lived, worked, and studied in 6 different countries<br>
 🚀 Skills: HTML, CSS, JavaScript, ReactJs. Excited to learn more about NextJs and Tailwind<br>
 🗣 Languages: Polish, English, Italian, and Spanish<br>
