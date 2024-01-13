@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 <!--
-**gosiast/gosiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**gosiast/gosiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+🌍 Lived, worked, and studied in 6 different countries
+🚀 Skills: HTML, CSS, JavaScript, ReactJs. Excited to learn more about NextJs and Tailwind
+🗣 Languages: Polish, English, Italian, and Spanish
+🤝 Soft skills: Collaborative and adaptable quick learner, who is always up for a challenge
+🔍 Open to remote or hybrid setups. Recently relocated to Barcelona 🇪🇸
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,7 +14,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: [My Portfolio] (https://malgorzata-stano.netlify.app/)
 - ⚡ Fun fact: ...
--->
+
