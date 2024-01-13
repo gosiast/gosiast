@@ -24,24 +24,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=gosiast&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**gosiast/gosiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-🌍 Lived, worked, and studied in 6 different countries
-🚀 Skills: HTML, CSS, JavaScript, ReactJs. Excited to learn more about NextJs and Tailwind
-🗣 Languages: Polish, English, Italian, and Spanish
-🤝 Soft skills: Collaborative and adaptable quick learner, who is always up for a challenge
-🔍 Open to remote or hybrid setups. Recently relocated to Barcelona 🇪🇸
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-
