@@ -1,11 +1,11 @@
 # 💫 Hi there, it's Gosia!
-👩‍💻 Frontend Developer <br>
+👩‍💻 Frontend Developer from Poland 🇵🇱<br>
 🌱 Lifelong learner <br>
 🌍 Lived, worked, and studied in 6 different countries<br>
 🚀 Skills: HTML, CSS, JavaScript, ReactJs. Excited to learn more about NextJs and Tailwind<br>
 🗣 Languages: Polish, English, Italian, and Spanish<br>
 🤝 Soft skills: Collaborative and adaptable quick learner, who is always up for a challenge<br>
-🔍 Open to remote or hybrid setups. Recently relocated to Barcelona 🇪🇸 <br>
+🌎 Recently relocated to Barcelona 🇪🇸 <br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
