@@ -3,8 +3,8 @@
 🌎 Based in Barcelona 🇪🇸 <br>
 🌱 Lifelong learner <br>
 🌍 Lived, worked, and studied in 6 different countries<br>
-🚀 Skills: HTML, CSS, JavaScript, ReactJs, NextJs, Tailwind. Excited to learn more about GraphQl and dive deeper into backend<br>
-🗣 Languages: Polish, English, Italian, and Spanish<br>
+🚀 Skills: HTML, CSS, JavaScript, ReactJs, NextJs, Tailwind. Excited to learn more about GraphQL and dive deeper into backend<br>
+🗣 Languages: fluent/ native in Polish, English, Italian, Spanish, and basic skills in Portuguese.<br>
 🤝 Soft skills: Collaborative and adaptable quick learner, who is always up for a challenge<br>
 
 # 💻 Tech Stack:
