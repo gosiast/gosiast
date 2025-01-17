@@ -1,6 +1,6 @@
 # Hi there, it's Gosia!
 
-👩‍💻 Frontend Developer from Poland 🇵🇱
+👩‍💻 Frontend Developer from Poland 🇵🇱 <br><br>
 🌎 Based in Barcelona 🇪🇸 
 🌱 Lifelong learner
 🌍 Lived, worked, and studied in 6 different countries
