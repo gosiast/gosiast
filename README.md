@@ -1,5 +1,13 @@
-# 💫 About Me:
-Hi there, it's Gosia!<br>👩‍💻 Frontend Developer from Poland 🇵🇱<br><br>🌎 Based in Barcelona 🇪🇸 <br><br>🌱 Lifelong learner <br><br>🌍 Lived, worked, and studied in 6 different countries<br><br>🚀 Skills: HTML, CSS, JavaScript, ReactJs, NextJs, Tailwind. Excited to learn more about GraphQL and dive deeper into backend<br><br>🗣 Languages: fluent/ native in Polish, English, Italian, Spanish, and basic skills in Portuguese.<br><br>🤝 Soft skills: Collaborative and adaptable quick learner, who is always up for a challenge<br><br>💫 Fun Fact: I can switch between 5 languages in a single conversation! 🇵🇱 🇮🇹 🇪🇸 🇬🇧 🇵🇹
+# Hi there, it's Gosia!
+
+👩‍💻 Frontend Developer from Poland 🇵🇱
+🌎 Based in Barcelona 🇪🇸 
+🌱 Lifelong learner
+🌍 Lived, worked, and studied in 6 different countries
+🚀 Skills: HTML, CSS, JavaScript, ReactJs, NextJs, Tailwind. Excited to learn more about GraphQL and dive deeper into backend and Web3.
+🗣 Languages: fluent/ native in Polish, English, Italian, Spanish, and basic skills in Portuguese.
+🤝 Soft skills: Collaborative and adaptable quick learner, who is always up for a challenge
+💫 Fun Fact: I can switch between 5 languages in a single conversation! 🇵🇱 🇮🇹 🇪🇸 🇬🇧 🇵🇹
 
 
 # 💻 Tech Stack:
