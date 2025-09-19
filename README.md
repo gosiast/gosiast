@@ -1,6 +1,6 @@
 # About me
 
-👩‍💻 I'm Gosia, Frontend Developer from Poland 🇵🇱 <br>
+👩‍💻 I'm Malgorzata but everyone calls me Gosia, Frontend Developer from Poland 🇵🇱 <br>
 🌎 Based in Barcelona 🇪🇸 <br>
 🌱 Lifelong learner<br>
 🌍 Lived, worked, and studied in 6 different countries<br>
